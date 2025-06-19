@@ -27,7 +27,7 @@
 GitHub上传大文件有点麻烦，给一个迅雷的下载链接：https://pan.xunlei.com/s/VOT6D5Qu-LTGNvuMcZoCLACRA1?pwd=iykg#
 复制这段内容后打开迅雷，查看更方便
 
-![image-20250619160505195](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250619160505195.png)
+![image-20250619160505195](media/image-20250619160505195.png)
 
 如果网盘下载的慢的话也可以直接去对应官网下载软件
 
