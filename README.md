@@ -24,7 +24,20 @@
 
 ## 相关资源在source文件夹内
 
-![image-20250619143729852](media/image-20250619143729852.png)
+GitHub上传大文件有点麻烦，给一个迅雷的下载链接：https://pan.xunlei.com/s/VOT6D5Qu-LTGNvuMcZoCLACRA1?pwd=iykg#
+复制这段内容后打开迅雷，查看更方便
+
+![image-20250619160505195](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250619160505195.png)
+
+如果网盘下载的慢的话也可以直接去对应官网下载软件
+
+**OpenOCD-20240916-0.12.0**版本的下载链接：https://www.st.com/en/development-tools/stm32cubeclt.html
+
+**STM32CubeCLT_1.18.0**版本的下载链接：https://sysprogs.com/getfile/2285/openocd-20240916.7z
+
+**Clion2024.1**版本的下载链接：https://download.jetbrains.com/cpp/CLion-2024.1.6.exe
+
+**STM32CubeMX** 下载链接：https://www.st.com/en/development-tools/stm32cubemx.html
 
 # 我的配置相设置如下
 
